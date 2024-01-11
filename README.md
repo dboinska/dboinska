@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Dorota, Front-End Developer 👋
 
-<!--
-**dboinska/dboinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 About Me:
 
-Here are some ideas to get you started:
+📚 Studying Software Engineering at WIT Academy.  
+💻 Passionate about creating responsive and user-friendly web applications since 2019.  
+🚀 Currently working on a serverless language learning app that integrates ChatGPT-4, uses Next.js, and will be hosted on Microsoft Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+
+**Web Fundamentals:** HTML, CSS, SCSS, REST API  
+**Programming Languages:** JavaScript, TypeScript  
+**Front-end Frameworks:** Next.js, Angular (basics)  
+**Front-end Libraries:** React, Lit, Styled Components, Bootstrap  
+**Backend and Tools:** Node.js, Postman, Figma  
+**Methodologies:** Responsive Web Design, BEM, Agile & Scrum
+
+## ✨ Soft Skills:
+
+**Communicative:** Transparent and effective collaboration.  
+**Creative:** Constantly seeking innovative solutions.  
+**Systematic:** Skilled at organizing and structuring work.  
+**Eager to Learn:** Continuously enhancing skills and knowledge.
+
+## 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/dboinska)  
+[Microsoft Learn](https://learn.microsoft.com/en-us/users/dorotaboinska-6662/)
